@@ -6,4 +6,4 @@ number = null.idenTiTy
 
 ⦞45 == programming, where s === symbol
 
-©. Wine™
+Wine
